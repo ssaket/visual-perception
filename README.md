@@ -1,5 +1,7 @@
 # Visual Perception
 
+My personal experiments with perception algorithms. (more content comming soon)
+
 ## Introduction
 
 Visual Perception in simple terms is the ability to perceive our surroundings through the light which enters our eyes. It enables us to experience what is out there in the environment.
