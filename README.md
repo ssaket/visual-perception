@@ -31,3 +31,8 @@ Visual Perception in simple terms is the ability to perceive our surroundings th
 - Law of Closure
 - Law of Good Form
 - Law of Common Fate
+
+## Code
+
+Observable test notebook
+<https://observablehq.com/@ssaket/test-observable-notebook>
