@@ -51,10 +51,14 @@ Solution - Copying the activation from the shallower layers and set additional l
 
 These coneections perform identity function over the activation of shallower layer and produces same activation. The output is then added with the activation of the next layer. To enable these connections we have to keep in mind that the dimentions of convolutions are same throughout the network.
 
-*Advantage*
+- **Advantage**
+
 By using the residual blocks in the network, one can construct network of any depths with the hypothesis that new layers are helping to learn underlying patterns in the input data.
 
-*why does it works*
+- **why does it works**
+
+![reset-explain](assets/resnet_explaination.png)
+
 We will consider two networks, first a plain NN and then a more deeper network in which a residual block is added. Therefore, the Activation 1 is being passes to Residual block which in turns gives new Activation 3.
 
 If there was no skip connection, then without any skip connections A3 would be
