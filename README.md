@@ -1,6 +1,10 @@
 # Visual Perception
 
-My personal experiments with perception algorithms. (more content comming soon)
+My personal experiments with perception algorithms. (more content comming soon).
+
+More appealing esthetics ->
+
+[![link](https://img.shields.io/badge/docs-cool%20stuff!-blue.svg)](https://ssaket.github.io/visual-perception/)
 
 ## Introduction
 
@@ -8,7 +12,7 @@ Visual Perception in simple terms is the ability to perceive our surroundings th
 
 ## Model of Perceptual Processing
 
-### Three-stage model [Colin Ware, 2000]
+### Three-stage model [Colin Ware, 2000]esthetics
 
 - **Stage 1:**
 
