@@ -51,11 +51,15 @@ Solution - Copying the activation from the shallower layers and set additional l
 
 These coneections perform identity function over the activation of shallower layer and produces same activation. The output is then added with the activation of the next layer. To enable these connections we have to keep in mind that the dimentions of convolutions are same throughout the network.
 
-- **Advantage**
+### Advantage
 
 By using the residual blocks in the network, one can construct network of any depths with the hypothesis that new layers are helping to learn underlying patterns in the input data.
 
-- **why does it works**
+### Varities
+
+![residual-blocks](assets\varities-residual-blocks.jpg)
+
+### why does it works ?
 
 ![reset-explain](assets/resnet_explaination.png)
 
