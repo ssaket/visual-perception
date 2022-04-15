@@ -36,6 +36,8 @@ Visual Perception in simple terms is the ability to perceive our surroundings th
 
 ## Blog
 
+- [Resources for choosing variable names](blogs/rss-variable-names.md)
+
 ### Deep learning architectures
 
 - [Inception Architecture](blogs/inception.md)
