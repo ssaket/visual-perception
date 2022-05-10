@@ -31,3 +31,8 @@ Visual Perception in simple terms is the ability to perceive our surroundings th
 - Law of Closure
 - Law of Good Form
 - Law of Common Fate
+
+## Visual Illusions
+- [148 Visual Phenomena & Optical Illusions, Michaelbach](https://michaelbach.de/ot/)
+- [Cornsweet Illusion](https://en.wikipedia.org/wiki/Cornsweet_illusion)
+- [Optical illusions that prove your brain sucks](https://uk.pcmag.com/software/34428/21-optical-illusions-that-prove-your-brain-sucks)
